@@ -4,7 +4,7 @@
 ---
 
 ## Olá! 👋,           
-Me chamo Vinicius Hein, sou acadêmico do curso Análise e Desenvolvimento de Sistemas, estudante do bootcamp Launchbase da [Rocketseat](https://rocketseat.com.br/)🚀️ e entusiasta de tecnologia e focado em **resolução de problemas!**
+Me chamo Vinicius Hein, sou acadêmico do curso Análise e Desenvolvimento de Sistemas, estudante do bootcamp, Launchbase da [Rocketseat](https://rocketseat.com.br/)🚀️ e entusiasta de tecnologia e focado em **resolução de problemas!**
 
 Sinta-se à vontade para explorar os repositórios 😁️. Caso tenha alguma dúvida ou até mesmo sugestão, entre em contato comigo!
 
